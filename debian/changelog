@@ -1,8 +1,9 @@
-haskell-x509-store (1.6.7-deepin1) unstable; urgency=medium
+haskell-x509-store (1.6.9-1) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * New upstream release
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:42:46 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Mon, 25 Jul 2022 10:40:12 +0300
 
 haskell-x509-store (1.6.7-2) unstable; urgency=medium
 
